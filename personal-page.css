@@ -155,6 +155,28 @@ body {
     padding-bottom: 50px;
     transition: all 0.5s
 }
+.comfirm-buttom{
+    width: 100%;
+    height: 80px;
+    display: grid;
+    place-items: center;
+}
+.button{
+    width: 150px;
+    height: 50px;
+    display: grid;
+    place-items: center;
+    background: none;
+    border: 1px solid white;
+    cursor: pointer;
+
+}
+.button:hover{
+    background: grey;
+    color: white;
+    border: 3px solid rgb(67, 41, 74);
+    transition: all 0.5s
+}
 /*-----------------------------------------------------------------------------------------------------------------------------------------------------------------*/
 .footer{
     width: 100%;
