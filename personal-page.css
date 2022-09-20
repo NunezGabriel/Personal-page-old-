@@ -1,5 +1,5 @@
 html {
-    scroll-behavior: smooth;
+    scroll-behavior: smooth; /*esto es para que el scroll sea mas bonito y no tan seco*/
 }
 body {
      margin: 0; 
